@@ -1,0 +1,20 @@
+_EDGE_S	SID=0DF469876C796D122BAD7F136D0A6CE1	.bing.com	/	会话	43	✓					Medium
+_ga	GA1.1.1132250672.1761708673	.booking.com	/	2026-12-03T03:37:48.059Z	30						Medium
+_ga_A12345	GS2.1.s1761707425$o1$g1$t1761709068$j53$l0$h780834702	.booking.com	/	2026-12-03T03:37:48.063Z	63						Medium
+_gcl_au	1.1.901511489.1761708674	.booking.com	/	2026-01-27T03:31:14.000Z	31						Medium
+_gid	GA1.2.490326828.1761708673	.booking.com	/	2025-10-30T03:37:47.000Z	30						Medium
+_RwBf	r=0&ilt=1&ihpd=0&ispd=1&rc=3&rb=0&rg=200&pc=0&mtu=0&rbb=0&clo=0&v=1&l=2025-10-28T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&ard=0001-01-01T00:00:00.0000000&rwdbt=0&rwflt=0&rwaul2=0&g=&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2025-10-29T03:21:54.3682945+00:00&rwred=0&wls=&wlb=&wle=&ccp=&cpt=&lka=0&lkt=0&aad=0&TH=&cid=0&gb=	.bing.com	/	2026-10-29T03:21:55.386Z	353		✓	None			Medium
+_Rwho	u=d&ts=2025-10-29	.bing.com	/	会话	22	✓	✓	None			Medium
+_SS	PC=U316&SID=0DF469876C796D122BAD7F136D0A6CE1&R=3&RB=0&GB=0&RG=200&RP=0	.bing.com	/	会话	73		✓	None			Medium
+_U	13L-49aiIMrRxydEWTWf5HKscGXShEqSLKISfRN6IYIBpcUtt2UkLukdp0dUjoYOTLo4ZEQ79ADvh5c-DvI5csMj3atVD3gZPjhCmRI_RMW4c46VG5LpRDDVHIUBRnRyv4fjOhzbBvyUL0ry-XZ59gTwNLpyu1Drpc72aWqaQjtddbGeGJu5T5GfTl1HdcoGae22HwRqohYJlERRYca-Pgf5z1yTOra8xym8s8ZBEtW4	.bing.com	/	2025-11-12T03:22:04.715Z	238		✓	None			Medium
+_uetsid	d173aab0b47411f0927f9b97615988b9	.booking.com	/	2025-10-30T03:37:48.000Z	39						Medium
+_uetvid	d173b590b47411f0bfabe35f1b24049e	.booking.com	/	2026-11-23T03:37:48.000Z	39						Medium
+ANON	A=9820047AF7EC21259C2E7485FFFFFFFF	.bing.com	/	2026-04-29T03:22:04.715Z	38		✓	None			Medium
+ar_debug	1	.www.google-analytics.com	/	2026-01-27T03:22:25.268Z	9	✓	✓	None			Medium
+aws-waf-token	1088564d-fa70-4344-b258-8a33e64f3f97:AAoAZO4aJCEUAAAA:hpUp/pj6padyKfqrfzh1m8RP61xMekKOsPgzNhazQ1CUDrI8pfK3pduYfdnPNOrsCdVIkvuzjbJi24RTA9aIPG0kxU700L9lNCtsql9ECfHtmobBk8oAF2pieDVSpN+8OtUXrFek9MPYyfl+vGi8uZ3rnTD9BlhSYcZhOw3kxRkvfL1TjdD8POMKV9pJHiqOt8p09sXU9vX28/p9jLjnTqwJpFyyPhEx5uXv6qELD8JgDyrJW1Y1Yc5z48LATBwjblU=	.booking.com	/	2025-11-02T03:43:38.000Z	327		✓	Lax			Medium
+BJS	-	.booking.com	/	2025-10-30T03:37:47.887Z	4	✓	✓				Medium
+bkng	11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbwcLxQQ4VaCrAOTgWNaJqeBbNbugp21WRdbGCBaDyO9ca5eUK4CHPNDYYrs%2BYlCS0BwPWhSJUubA338Jla674LMV1nZg74P%2Fl%2BiLOdsB%2F3ZBxgbA84yP7nM4VocoetYX8ZB5%2FkPGD24G0%2Boc05YMmfKsprJTbVXWdkHAbGLlr%2FQo%3D	.booking.com	/	2026-12-03T03:40:41.093Z	228	✓	✓	None			Medium
+bkng_sso_auth	CAIQm8CWywYaeB44yqZTKNo4VthpYKZnWH1MHlP4lvtQXuQH8g6zgJwSyLKsq8JbXPgoDrbb1J/PsfrqN1/SJncEL7OjsjEfNf1xnB5cwbMyUgNmnRVHTytctK0w49oDsqLnQcG5lO9fy1yRYtho+VbicajUkVVMBJ3MKaKMepaMYg==	.booking.com	/	2026-12-03T03:40:37.280Z	189	✓	✓	Lax			Medium
+bkng_sso_ses	eyJib29raW5nX2dsb2JhbCI6W3siaCI6InVxQ1JFalVLQ1ZzZ0hEQUs2NnF2dy94QkVaTWlGN09MWm9IRDBwaTVKdW8iLCJhIjoxfV19	.booking.com	/	2026-12-03T03:37:15.446Z	116	✓	✓				Medium
+bkng_sso_session	e30	.booking.com	/	2026-12-03T03:37:15.445Z	19	✓	✓				Medium
+cnfunco	1	.booking.com	/	2026-10-29T03:30:01.050Z	8	✓	✓	None			Medium
